@@ -1,0 +1,8 @@
+name: CKES Accordion plugin
+type: module
+description: This plugin allows inserting accordion widgets.
+core: 8.x
+package: CKEditor
+version: VERSION
+dependencies:
+  - ckeditor
